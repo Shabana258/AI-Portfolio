@@ -1,1 +1,1 @@
-print("Hello AI Portfolio - First Project")
+print("Portfolio -First Project")
